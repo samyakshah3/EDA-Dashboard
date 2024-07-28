@@ -1,7 +1,7 @@
 # EDA-Dashboard
 
 
-# Results:
+# Dashboard:
 
 ![EDA](Dashboard.png)
 

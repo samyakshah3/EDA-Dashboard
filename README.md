@@ -3,5 +3,5 @@
 
 # Results:
 
-![EDA](Samplesuperstore_EDA.png)
+![EDA](Dashboard.png)
 
